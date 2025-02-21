@@ -71,20 +71,6 @@
 
 ---
 
-Here's a **comprehensive list of 100 advanced XSS payloads** categorized based on different evasion techniques, attack surfaces, and bypass strategies.  
-
----
-
-## **🔍 XSS (Cross-Site Scripting) Explained**  
-XSS is a security vulnerability that allows attackers to inject **malicious JavaScript** into web pages. This can lead to **cookie theft, session hijacking, phishing attacks, and malware injection**. There are **three main types of XSS**:  
-1. **Stored XSS** – The script is permanently stored (e.g., in a database).  
-2. **Reflected XSS** – The script is embedded in a URL and executed when clicked.  
-3. **DOM-Based XSS** – The payload is executed by manipulating the page’s JavaScript (client-side attack).  
-
----
-
-# **🚀 100 Advanced XSS Payloads**  
-
 ### **🛠️ Basic XSS Payloads**
 ```html
 <script>alert(1)</script>
