@@ -246,14 +246,17 @@ navigator.serviceWorker.register("data:application/javascript,alert(1)");
 ```
 
 ---
-
-🛡️ Tools for Automated XSS Testing on GitHub  
+ 
 1️⃣ XSS Automation Tools
 
 🔹 XSStrike – AI-based XSS scanner (https://github.com/s0md3v/XSStrike) 
-🔹 DalFox – Fast XSS scanner with parameter mining (https://github.com/hahwul/dalfox) 
+
+🔹 DalFox – Fast XSS scanner with parameter mining (https://github.com/hahwul/dalfox)
+
 🔹 PwnXSS – Vulnerability (XSS) scanner exploit   (https://github.com/pwn0sec/PwnXSS)
-🔹 XSSHunter – Finds blind XSS vulnerabilities (https://xsshunter.com/#/) 
+
+🔹 XSSHunter – Finds blind XSS vulnerabilities (https://xsshunter.com/#/)
+
 🔹 Burp Suite – Used for intercepting & modifying requests
 
 
