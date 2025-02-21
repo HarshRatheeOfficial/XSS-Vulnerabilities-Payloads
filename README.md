@@ -1,4 +1,4 @@
-🔍 XSS (Cross-Site Scripting) Explained
+🔍 XSS (Cross-Site Scripting) 
 
 XSS is a security vulnerability that allows attackers to inject malicious JavaScript into web pages. This can lead to cookie theft, session hijacking, phishing attacks, and malware injection. There are three main types of XSS:
 
